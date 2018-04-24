@@ -1,0 +1,377 @@
+,RTE ,Street Name,From Adress,To Adress,Day,Time,Side,From Street,To Street,Optout
+0,31,6th,1400,1998.0,st1Tue,PM,W,Camelia,University,1600
+1,21,th6Street,1401,1999.0,st1Mon,PM,E,Camelia,University,
+2,22,th6Street,2000,2498.0,nd2Mon,AM,W,University,Dwight,
+3,61,th6Street,2001,2499.0,st1Fri,AM,E,University,Dwight,
+4,21,th7Street,1400,1598.0,st1Mon,PM,W,Camelia,Bataan,
+5,21,th7Street,1500,1998.0,st1Mon,PM,W,Bataan,University,
+6,31,th7Street,1401,1999.0,st1Tue,PM,E,Camelia,University,
+7,61,th7Street,2000,2498.0,st1Fri,AM,W,University,Dwight,
+8,22,th7Street,2001,2499.0,nd2Mon,AM,E,University,Dwight,
+9,31,th8Street,1400,1998.0,st1Tue,PM,W,Camelia,University,
+10,21,th8Street,1401,1999.0,st1Mon,PM,E,Camelia,University,
+11,22,th8Street,2000,2498.0,nd2Mon,AM,W,University,Dwight,2100
+12,61,th8Street,2001,2499.0,st1Fri,AM,E,University,Dwight,
+13,21,th9Street,1400,1998.0,st1Mon,PM,W,Camelia,University,1600
+14,31,th9Street,1401,1999.0,st1Tue,PM,E,Camelia,University,
+15,61,th9Street,2000,2498.0,st1Fri,AM,W,University,Dwight,
+16,22,th9Street,2001,2499.0,nd2Mon,AM,E,University,Dwight,
+17,31,th10Street,1400,1998.0,st1Tue,PM,W,Camelia,University,
+18,21,th10Street,1401,1999.0,st1Mon,PM,E,Camelia,University,
+19,22,th10Street,2000,2498.0,nd2Mon,AM,W,University,Dwight,
+20,61,th10Street,2001,2499.0,st1Fri,AM,E,University,Dwight,
+21,21,nd62Street,1600,1998.0,st1Mon,AM,S,City Limit,City Limit,
+22,31,nd62Street,1601,1999.0,st1Tue,AM,N,City Limit,City Limit,
+23,31,rd63Street,1600,1998.0,st1Tue,AM,S,City Limit,City Limit,
+24,21,rd63Street,1601,1999.0,st1Mon,AM,N,City Limit,City Limit,
+25,42,th65Street,1264,1298.0,nd2Wed,AM,S,Idaho,City Limit,
+26,32,th65Street,1201,1299.0,nd2Tue,AM,N,Idaho,City Limit,
+27,32,th66Street,1200,1498.0,nd2Tue,AM,S,City Limit,Sacramento,
+28,42,th66Street,1263,1499.0,nd2Wed,AM,N,City Limit,Sacramento,
+29,42,th67Street,1264,1498.0,nd2Wed,AM,S,City Limit,Sacramento,
+30,43,Halcyon Ct,3020,3098.0,3rd Wed,AM,W,Webster,Prince,
+31,33,Halcyon Ct,3001,3099.0,3rd Tue,AM,E,Webster,Prince,
+32,32,Harmon,1300,1498.0,2nd Tue,AM,S,Idaho,Sacramento,
+33,42,Harmon,1301,1499.0,2nd Wed,AM,N,Idaho,Sacramento,
+34,21,Harmon,1500,1898.0,1st Mon,AM,S,Sacramento,City Limit,
+35,31,Harmon,1501,1999.0,1st Tue,AM,N,Sacramento,City Limit,
+36,51,Harper,2900,3199.0,1st Thurs,AM,W,Russell,Fairview,
+37,41,Harper,2999,3125.0,1st Wed,AM,E,Russell,Fairview,
+38,22,Harrison,1100,1198.0,2nd Mon,PM,S,San Pablo,Stannage,
+39,61,Harrison,1101,1199.0,1st Fri,PM,N,San Pablo,Stannage,
+40,32,Haskell,1200,1398.0,2nd Tue,AM,S,San Pablo,Acton,
+41,42,Haskell,1201,1399.0,2nd Wed,AM,N,San Pablo,Acton,
+42,33,Haste,2200,2398.0,3rd Tue,PM,S,Fulton,Dana,
+43,23,Haste,2201,2399.0,3rd Mon,PM,N,Fulton,Dana,
+44,63,Hazel,1,91.0,3rd Fri,AM,N,Claremont,Domingo,
+45,34,Hazel,2,90.0,4th Tue,AM,S,Claremont,Domingo,
+46,21,Hearst,830,1098.0,1st Mon,PM,S,6th,San Pablo,
+47,31,Hearst,831,1099.0,1st Tue,PM,N,6th,San Pablo,
+48,51,Hearst,1100,1498.0,1st Thurs,PM,S,San Pablo,Sacramento,
+49,41,Hearst,1101,1499.0,1st Wed,PM,N,San Pablo,Sacramento,
+50,42,Hearst,1500,1998.0,2nd Wed,PM,S,Sacramento,Milvia,
+51,32,Hearst,1501,1999.0,2nd Tue,PM,N,Sacramento,Milvia,
+52,33,Hearst,2001,2099.0,3rd Tue,PM,N,Milvia,Shattuck,
+53,53,Henry,1200,1398.0,3rd Thurs,PM,W,Eunice,Rose,
+54,43,Henry,1201,1399.0,3rd Wed,PM,E,Eunice,Rose,
+55,43,Henry,1400,1598.0,3rd Wed,PM,W,Rose,Cedar,
+56,53,Henry,1401,1599.0,3rd Thurs,PM,E,Rose,Cedar,
+57,64,Highland Pl,1800,1898.0,4th Fri,PM,W,Ridge,Hearst,
+58,54,Highland Pl,1801,1899.0,4th Thurs,PM,E,Ridge,Hearst,
+59,63,Hillcrest Ct,2,18.0,3rd Fri,AM,W,Hillcrest,Cul De Sac,
+60,63,Hillcrest Ct,1,19.0,3rd Fri,AM,E,Hillcrest,Cul De Sac,
+61,34,Hillcrest Rd,0,66.0,4th Tue,AM,W,Claremont,Eucalyptus,
+62,34,Hillcrest Rd,70,222.0,4th Tue,AM,S,Eucalyptus,Roanoke,
+63,63,Hillcrest Rd,71,223.0,3rd Fri,AM,N,Eucalyptus,The Uplands,
+64,63,Hillcrest Rd,119,,3rd Fri,AM,N,Hillcrest Ct,Claremont,
+65,63,Hillcrest Rd,254,266.0,3rd Fri,AM,W,Roanoke,City Limit,200
+66,63,Hillcrest Rd,257,265.0,3rd Fri,AM,E,Roanoke,City Limit,
+67,54,Hillegass,2500,2698.0,4th Thurs,AM,W,Dwight,Derby,
+68,64,Hillegass,2501,2699.0,4th Fri,AM,E,Dwight,Derby,
+69,63,Hillegass,2700,3098.0,3rd Fri,AM,W,Derby,Woolsey,
+70,34,Hillegass,2701,3099.0,4th Tue,AM,E,Derby,Woolsey,
+71,34,Hillside Ave,2400,2498.0,4th Tue,PM,W,Prospect,Dwight,
+72,44,Hillside Ave,2401,2499.0,4th Wed,PM,E,Prospect,Dwight,
+73,62,Holly,1500,1598.0,2nd Fri,PM,W,Rose,Cedar,1500
+74,52,Holly,1501,1599.0,2nd Thurs,PM,E,Rose,Cedar,1400
+75,22,Hopkins,1100,1498.0,2nd Mon,PM,S,Cedar,Sacramento,
+76,61,Hopkins,1100,1498.0,1st Fri,PM,N,Sacramento,San Pablo,
+77,61,Hopkins,1400,1498.0,1st Fri,PM,S,Albina,Hopkins Ct,
+78,22,Hopkins,1401,1499.0,2nd Mon,PM,N,Albina,Hopkins Ct,
+79,62,Hopkins,1500,1998.0,2nd Fri,PM,S,Sacramento,Milvia,
+80,52,Hopkins,1501,1999.0,2nd Thurs,PM,N,Sacramento,Milvia,
+81,23,Howe,2300,2398.0,3rd Mon,AM,S,Ellsworth,Telegraph,
+82,52,Idaho,3124,3204.0,2nd Thurs,AM,W,66th,City Limit,
+83,62,Idaho,3125,3204.0,2nd Fri,AM,E,66th,City Limit,
+84,62,Jaynes,1600,1798.0,2nd Fri,PM,S,Edith,California,1600-
+85,52,Jaynes,1630,1699.0,2nd Thurs,PM,N,Edith,California,
+86,41,Jefferson,2000,2498.0,1st Wed,AM,W,University,Dwight,
+87,51,Jefferson,2001,2499.0,1st Thurs,AM,E,University,Dwight,
+88,21,Jones,830,1098.0,1st Mon,PM,S,6th,San Pablo,
+89,31,Jones,831,1099.0,1st Tue,PM,N,6th,San Pablo,
+90,61,Jones,1100,1198.0,1st Fri,PM,S,San Pablo,Stannage,
+91,22,Jones,1101,1199.0,2nd Mon,PM,N,San Pablo,Stannage,
+92,52,Josephine,1200,1598.0,2nd Thurs,PM,W,Hopkins,Cedar,
+93,62,Josephine,1201,1599.0,2nd Fri,PM,E,Hopkins,Cedar,
+94,42,Josephine,1600,1698.0,2nd Wed,PM,W,Cedar,Virginia,1600
+95,32,Josephine,1601,1699.0,2nd Tue,PM,E,Cedar,Virginia,
+96,31,Julia,1500,1698.0,1st Tue,AM,S,Sacramento,King,
+97,21,Julia,1501,1699.0,1st Mon,AM,N,Sacramento,King,
+98,22,Kains,1172,1598.0,2nd Mon,PM,W,City Limit,Hopkins,
+99,61,Kains,1171,1599.0,1st Fri,PM,E,City Limit,Hopkins,
+100,51,Kains,1600,1698.0,1st Thurs,PM,W,Cedar,Virginia,
+101,41,Kains,1601,1699.0,1st Wed,PM,E,Cedar,Virginia,
+102,44,Kelsey,2800,2898.0,4th Wed,AM,W,Stuart,Russell,
+103,24,Kelsey,2801,2899.0,4th Mon,AM,E,Stuart,Russell,
+104,51,King,2900,3398.0,1st Thurs,AM,W,Russell,City Limit,
+105,41,King,2901,3399.0,1st Wed,AM,E,Russell,City Limit,
+106,43,Lassen,1001,1099.0,3rd Wed,PM,E,Marin,El Dorado,1000
+107,53,Lassen,1101,1198.0,3rd Thurs,PM,W,Marin,El Dorado,
+108,63,Lewiston,3100,3198.0,3rd Fri,AM,W,Woolsey,Alcatraz,
+109,34,Lewiston,3101,3199.0,4th Tue,AM,E,Woolsey,Alcatraz,
+110,41,Lincoln,1300,1348.0,1st Wed,PM,S,Chestnut,Terminus,
+111,41,Lincoln,1300,1349.0,1st Wed,PM,N,Chestnut,Terminus,
+112,51,Lincoln,1401,1499.0,1st Thurs,PM,N,Sacramento,Acton,
+113,42,Lincoln,1500,1798.0,2nd Wed,PM,S,Sacramento,Grant,1500
+114,32,Lincoln,1501,1799.0,2nd Tue,PM,N,Sacramento,Grant,1600
+115,34,Linden,2900,2998.0,4th Tue,AM,W,Ashby,Webster,2900
+116,63,Linden,2961,2999.0,3rd Fri,AM,E,Ashby,Webster,
+117,43,Lorina,2900,2998.0,3rd Wed,AM,W,Russell,Ashby,
+118,53,Lorina,2901,2999.0,3rd Thurs,AM,E,Russell,Ashby,
+119,52,Mabel,2500,3199.0,2nd Thurs,AM,W,Dwight,66th,
+120,62,Mabel,2501,3123.0,2nd Fri,AM,E,Dwight,66th,
+121,63,Magnolia,2960,2998.0,3rd Fri,AM,W,Ashby,Webster,
+122,34,Magnolia,2901,2999.0,4th Tue,AM,E,Ashby,Webster,2900
+123,52,M L King,1201,1599.0,2nd Thurs,PM,E,Yolo,Cedar,
+124,62,M L King,1300,1598.0,2nd Fri,PM,W,Berryman,Cedar,
+125,32,M L King,1600,1998.0,2nd Tue,PM,W,Cedar,Berkeley Way,
+126,42,M L King,1601,1923.0,2nd Wed,PM,E,Cedar,Berkeley Way,
+127,34,M L King,2500,2898.0,4th Tue,PM,W,Dwight,Russell,
+128,44,M L King,2501,2899.0,4th Wed,PM,E,Dwight,Russell,
+129,41,M L King,2900,3198.0,1st Wed,AM,W,Russell,Fairview,
+130,51,M L King,2901,2999.0,1st Thurs,AM,E,Russell,Ashby,
+131,51,M L King,3300,3398.0,1st Thurs,AM,E,Alcatraz,City Limit,
+132,61,Masonic,1200,1298.0,1st Fri,PM,W,City Limit,Santa Fe,
+133,22,Masonic,1201,1299.0,2nd Mon,PM,E,City Limit,Santa Fe,
+134,52,Matthews,2500,2998.0,2nd Thurs,AM,W,Dwight,Russell,
+135,62,Matthews,2725,2899.0,2nd Fri,AM,E,Dwight,Russell,
+136,62,McGee,1400,1598.0,2nd Fri,PM,W,Hopkins,Cedar,
+137,52,McGee,1301,1599.0,2nd Thurs,PM,E,Hopkins,Cedar,
+138,32,McGee,1600,1798.0,2nd Tue,PM,W,Cedar,Delaware,
+139,42,McGee,1601,1799.0,2nd Wed,PM,E,Cedar,Delaware,
+140,32,McGee,1800,1898.0,2nd Tue,PM,W,Delaware,Ohlone Park,
+141,32,McGee,1801,1899.0,2nd Tue,PM,E,Delaware,Ohlone Park,
+142,42,McGee,1901,1999.0,2nd Wed,PM,E,Hearst,University,
+143,51,McGee,2000,2898.0,1st Thurs,AM,W,University,Russell,2400
+144,41,McGee,2001,2899.0,1st Wed,AM,E,University,Russell,
+145,51,McKinley,2100,2498.0,1st Thurs,AM,W,Addison,Dwight,
+146,41,McKinley,2101,2499.0,1st Wed,AM,E,Addison,Dwight,
+147,52,Milvia,1101,1199.0,2nd Thurs,PM,E,Hopkins,Eunice,
+148,62,Milvia,1200,1598.0,2nd Fri,PM,W,Hopkins,Cedar,
+149,52,Milvia,1201,1599.0,2nd Thurs,PM,E,Eunice,Cedar,
+150,42,Milvia,1600,1998.0,2nd Wed,PM,W,Cedar,University,
+151,32,Milvia,1601,1999.0,2nd Tue,PM,E,Cedar,University,
+152,41,Milvia,2550,2898.0,1st Wed,AM,W,Blake,Russell,
+153,51,Milvia,2551,2899.0,1st Thurs,AM,E,Blake,Russell,
+154,52,Miramonte Ct,1400,1498.0,2nd Thurs,PM,W,Ada,Terminus,
+155,52,Miramonte Ct,1401,1499.0,2nd Thurs,PM,E,Ada,Terminus,
+156,53,Modoc,900,998.0,3rd Thurs,PM,W,Solano,Marin,
+157,43,Modoc,901,999.0,3rd Wed,PM,E,Solano,Marin,
+158,61,Neilson,1200,1298.0,1st Fri,PM,W,City Limit,Terminus,
+159,22,Neilson,1201,1299.0,2nd Mon,PM,E,City Limit,Gilman,
+160,61,Neilson,1201,1299.0,1st Fri,PM,E,Gilman,Terminus,
+161,22,Neilson,1400,1498.0,2nd Mon,PM,E,Northside,Hopkins,
+162,61,Neilson,1401,1499.0,1st Fri,PM,W,Northside,Hopkins,
+163,53,Newbury,2900,2998.0,3rd Thurs,AM,W,Russell,Ashby,
+164,43,Newbury,2901,2999.0,3rd Wed,AM,E,Russell,Ashby,
+165,63,Nogales,0,1.0,3rd Fri,AM,W,The Plaza,Parkside,
+166,63,Nogales,0,1.0,3rd Fri,AM,E,The Plaza,Parkside,
+167,52,North,1500,1598.0,2nd Thurs,PM,W,Jaynes,Terminus,
+168,52,North,1501,1599.0,2nd Thurs,PM,E,Jaynes,Terminus,1500
+169,61,Northside,1300,1398.0,1st Fri,PM,W,Gilman,Terminus,
+170,61,Northside,1301,1399.0,1st Fri,PM,E,Gilman,Terminus,
+171,61,Northside,1401,1499.0,1st Fri,PM,E,Neilson,Hopkins,
+172,61,North Valley,2100,2198.0,1st Fri,AM,W,Allston,Terminus,
+173,61,North Valley,2101,2199.0,1st Fri,AM,E,Allston,Terminus,2100
+174,53,Oak,2300,2348.0,3rd Thurs,PM,S,Arch,Glen,
+175,43,Oak,2301,2549.0,3rd Wed,PM,N,Arch,Glen,
+176,24,Oak Knoll,2701,2799.0,4th Mon,AM,E,Garber,Avalon,
+177,44,Oak Knoll,2800,2828.0,4th Wed,AM,W,Garber,Avalon,
+178,34,Oakvale,33,67.0,4th Tue,AM,N,Claremont,Domingo,
+179,63,Oakvale,25,,3rd Fri,AM,S,Claremont,Domingo,
+180,61,Ordway,1200,1300.0,1st Fri,PM,W,City Limit,Hopkins,
+181,22,Ordway,1201,1599.0,2nd Mon,PM,E,City Limit,Hopkins,1400
+182,51,Ordway,1300,1398.0,1st Thurs,PM,W,Hopkins,Rose,
+183,41,Ordway,1331,1499.0,1st Wed,PM,E,Hopkins,Rose,
+184,32,Oregon,1100,1498.0,2nd Tue,AM,S,San Pablo,Sacramento,
+185,42,Oregon,1101,1499.0,2nd Wed,AM,N,San Pablo,Sacramento,
+186,31,Oregon,1500,1998.0,1st Tue,AM,S,Sacramento,Milvia,
+187,21,Oregon,1501,1999.0,1st Mon,AM,N,Sacramento,Milvia,
+188,33,Oregon,2000,2498.0,3rd Tue,AM,S,Milvia,Regent,
+189,23,Oregon,2001,2499.0,3rd Mon,AM,N,Milvia,Regent,
+190,51,Otis,2900,2998.0,1st Thurs,AM,W,Russell,Ashby,
+191,41,Otis,2901,2999.0,1st Wed,AM,E,Russell,Ashby,
+192,31,Page,830,1000.0,1st Tue,PM,S,6th,San Pablo,
+193,21,Page,831,1099.0,1st Mon,PM,N,6th,San Pablo,
+194,22,Page,1100,1199.0,2nd Mon,PM,S,San Pablo,Cornell,
+195,61,Page,1100,1198.0,1st Fri,PM,N,San Pablo,Cornell,
+196,62,Park,2724,2998.0,2nd Fri,AM,W,Ward,Burnett,
+197,52,Park,2725,2999.0,2nd Thurs,AM,E,Ward,Burnett,
+198,32,Parker,1100,1498.0,2nd Tue,AM,S,San Pablo,Sacramento,
+199,42,Parker,1101,1499.0,2nd Wed,AM,N,San Pablo,Sacramento,
+200,21,Parker,1500,1998.0,1st Mon,AM,S,Sacramento,Milvia,
+201,31,Parker,1501,1999.0,1st Tue,AM,N,Sacramento,Milvia,
+202,33,Parker,2001,2199.0,3rd Tue,AM,N,Milvia,Fulton,
+203,64,Parker,2200,2898.0,4th Fri,AM,S,Fulton,Warring,
+204,54,Parker,2201,2899.0,4th Thurs,AM,N,Fulton,Warring,
+205,63,Parkside,12,90.0,3rd Fri,AM,S,Encina,The Plaza,
+206,34,Parkside,13,89.0,4th Tue,AM,N,Encina,The Plaza,100
+207,63,Peralta,601,699.0,3rd Fri,PM,W,Thousand Oaks,Portland,
+208,24,Peralta,601,699.0,4th Mon,PM,E,Thousand Oaks,Portland,600-
+209,24,Peralta,701,799.0,4th Mon,PM,E,Vincente,San Lorenzo,700
+210,22,Peralta,1200,1598.0,2nd Mon,PM,W,City Limit,Hopkins,
+211,61,Peralta,1201,1301.0,1st Fri,PM,E,City Limit,Hopkins,
+212,44,Piedmont,2300,2499.0,4th Wed,PM,W,Bancroft,Dwight,
+213,34,Piedmont,2301,2499.0,4th Tue,PM,E,Bancroft,Dwight,
+214,54,Piedmont,2500,2698.0,4th Thurs,AM,W,Dwight,Derby,
+215,64,Piedmont,2501,2699.0,4th Fri,AM,E,Dwight,Derby,
+216,24,Piedmont,2700,2898.0,4th Mon,AM,W,Derby,Russell,
+217,44,Piedmont,2701,2899.0,4th Wed,AM,E,Derby,Russell,
+218,63,Piedmont,2900,2998.0,3rd Fri,AM,W,Russell,Webster,
+219,34,Piedmont,2901,2999.0,4th Tue,AM,E,Russell,Webster,2900
+220,34,Pine,2900,2998.0,4th Tue,AM,W,Russell,Webster,
+221,63,Pine,2901,2999.0,3rd Fri,AM,E,Russell,Webster,
+222,22,Poe,1300,1398.0,2nd Mon,AM,S,Bonar,Dead End,
+223,22,Poe,1301,1399.0,2nd Mon,AM,N,Bonar,Dead End,
+224,43,Posen,1538,1598.0,3rd Wed,PM,S,City Limit,Monterey,1600
+225,53,Posen,1537,1599.0,3rd Thurs,PM,N,City Limit,Monterey,
+226,32,Prince,1400,1498.0,2nd Tue,AM,S,Acton,Sacramento,
+227,42,Prince,1401,1499.0,2nd Wed,AM,N,Acton,Stanton,
+228,31,Prince,1500,1898.0,1st Tue,AM,S,Sacramento,M L King,
+229,21,Prince,1599,1821.0,1st Mon,AM,N,Sacramento,M L King,
+230,33,Prince,2000,2398.0,3rd Tue,AM,S,Tremont,Dana,
+231,23,Prince,2001,2499.0,3rd Mon,AM,N,Tremont,Dana,
+232,63,Prince,2701,2899.0,3rd Fri,AM,N,College,Claremont,
+233,44,Prospect,2350,2498.0,4th Wed,AM,W,Bancroft,Dwight,
+234,34,Prospect,2301,2499.0,4th Tue,PM,E,Bancroft,Dwight,
+235,64,Regent,2500,2698.0,4th Fri,AM,W,Dwight,Derby,
+236,54,Regent,2501,2699.0,4th Thurs,AM,E,Derby,Dwight,
+237,53,Regent,2800,2898.0,3rd Thurs,AM,W,Stuart,Ashby,
+238,43,Regent,2801,2899.0,3rd Wed,AM,E,Stuart,Prince,2900
+239,43,Regent,2700,2799.0,3rd Wed,AM,E/W,Stuart,N.Terminus,
+240,63,Roanoke,19,49.0,3rd Fri,AM,E,Hillcrest Rd,City Limit,
+241,34,Roanoke,70,122.0,4th Tue,AM,W,Hillcrest Rd,City Limit,
+242,63,Roble Ct,6,16.0,3rd Fri,AM,S,Roble,Cul De Sac,
+243,63,Roble Ct,5,17.0,3rd Fri,AM,N,Roble,Cul De Sac,
+244,63,Roble Rd,26,58.0,3rd Fri,AM,W,Tunnel,City Limit,
+245,34,Roble Rd,23,59.0,4th Tue,AM,E,Tunnel,City Limit,
+246,51,Roosevelt,2100,2499.0,1st Thurs,AM,W,Addison,Dwight,
+247,41,Roosevelt,2101,2499.0,1st Wed,AM,E,Addison,Dwight,
+248,41,Rose,1200,1498.0,1st Wed,PM,S,Hopkins,Sacramento,
+249,51,Rose,1201,1499.0,1st Thurs,PM,N,Hopkins,Sacramento,
+250,52,Rose,1500,1998.0,2nd Thurs,PM,S,Sacramento,Milvia,
+251,62,Rose,1501,1999.0,2nd Fri,PM,N,Sacramento,Milvia,
+252,53,Rose,2300,2348.0,3rd Thurs,PM,S,Arch,Bayview,
+253,43,Rose,2301,2349.0,3rd Wed,PM,N,Arch,Bayview,2300
+254,63,Roslyn Ct,2,16.0,3rd Fri,AM,W,Chabolyn Ter,Cul De Sac,
+255,63,Roslyn Ct,2,19.0,3rd Fri,AM,E,Chabolyn Ter,Cul De Sac,
+256,42,Russell,1100,1498.0,2nd Wed,AM,S,San Pablo,Sacramento,
+257,32,Russell,1101,1499.0,2nd Tue,AM,N,San Pablo,Sacramento,
+258,21,Russell,1500,1998.0,1st Mon,AM,S,Sacramento,Milvia,
+259,31,Russell,1501,1999.0,1st Tue,AM,N,Sacramento,Milvia,
+260,23,Russell,2000,2698.0,3rd Mon,AM,S,Adeline,College,
+261,24,Russell,2700,2798.0,4th Mon,AM,S,College,Piedmont,
+262,44,Russell,2701,2799.0,4th Wed,AM,N,College,Piedmont,
+263,24,Russell,2800,2894.0,4th Mon,AM,S,Piedmont,Kelsey,
+264,44,Russell,2800,2818.0,4th Wed,AM,N,Piedmont,Kelsey,2800
+265,44,Russell,3001,3099.0,4th Wed,AM,N,Claremont,Domingo,
+266,43,Sacramento,2100,2198.0,3rd Wed,AM,W,Addison,Allston,
+267,53,Sacramento,2101,2199.0,3rd Thurs,AM,E,Addison,Allston,
+268,43,Sacramento,2400,2498.0,3rd Wed,AM,W,Channing,Dwight,
+269,53,Sacramento,2401,2499.0,3rd Thurs,AM,E,Channing,Dwight,
+270,24,San Antonio,1800,1898.0,4th Mon,PM,S,San Ramon,Arlington,1800
+271,63,San Antonio,1801,1899.0,3rd Fri,PM,N,San Ramon,Arlington,
+272,24,San Lorenzo,1515,1559.0,4th Mon,PM,N,City Limit,Peralta,1600-
+273,63,San Lorenzo,1542,1598.0,3rd Fri,PM,S,City Limit,Peralta,1800
+274,63,San Miguel,1720,1798.0,3rd Fri,PM,W,Thousand Oaks,Santa Rosa,
+275,24,San Miguel,1721,1799.0,4th Mon,PM,E,Thousand Oaks,Santa Rosa,
+276,61,Santa Fe,1200,1428.0,1st Fri,PM,W,City Limit,Cornell,
+277,22,Santa Fe,1199,1401.0,2nd Mon,PM,E,City Limit,Cornell,
+278,63,Santa Rosa,600,699.0,3rd Fri,PM,W,Menlo Pl,San Lorenzo,
+279,24,Santa Rosa,601,749.0,4th Mon,PM,E,Menlo Pl,San Lorenzo,500-
+280,41,Short,1600,1699.0,1st Wed,PM,E/W,Lincoln,Terminus,
+281,41,Short,1800,1899.0,1st Wed,PM,E/W,Terminus,Hearst,
+282,41,Spaulding,2100,2498.0,1st Wed,AM,W,Addison,Dwight,
+283,51,Spaulding,2101,2499.0,1st Thurs,AM,E,Addison,Dwight,
+284,61,Stannage,1200,1598.0,1st Fri,PM,W,City Limit,Hopkins,
+285,22,Stannage,1201,1599.0,2nd Mon,PM,E,City Limit,Hopkins,
+286,41,Stannage,1600,1698.0,1st Wed,PM,W,Hopkins,Virginia,
+287,51,Stannage,1601,1699.0,1st Thurs,PM,E,Hopkins,Virginia,700
+288,62,Stanton,2824,3098.0,2nd Fri,AM,W,Oregon,Prince,
+289,52,Stanton,2825,3099.0,2nd Thurs,AM,E,Oregon,Prince,
+290,43,Station Place,853,858.0,3rd Wed,PM,E/W,Catalina,Terminus,
+291,31,Stuart,1501,1999.0,1st Tue,AM,N,Sacramento,Milvia,
+292,23,Stuart,2000,2598.0,3rd Mon,AM,S,Milvia,Hillegass,
+293,33,Stuart,2001,2599.0,3rd Tue,AM,N,Milvia,Hillegass,
+294,63,Stuart,2600,2898.0,3rd Fri,AM,S,Hillegass,Kelsey,
+295,34,Stuart,2601,2799.0,4th Tue,AM,N,Hillegass,Kelsey,
+296,53,Sutter,1000,1198.0,3rd Thurs,PM,W,Del Norte,Eunice,
+297,43,Sutter,1101,1199.0,3rd Wed,PM,E,Del Norte,Eunice,1100
+298,61,Talbot,1200,1428.0,1st Fri,PM,W,City Limit,Santa Fe,
+299,22,Talbot,1201,1399.0,2nd Mon,PM,E,City Limit,Santa Fe,
+300,24,Tanglewood,10,28.0,4th Mon,AM,W,Belrose,Claremont Ave,
+301,44,Tanglewood,2940,2998.0,4th Wed,AM,E,Belrose,Claremont Ave,
+302,61,Tevlin,1200,1398.0,1st Fri,PM,W,Terminus,Watkins,
+303,61,Tevlin,1201,1379.0,1st Fri,PM,E,Terminus,Watkins,
+304,34,The Plaza,12,88.0,4th Tue,AM,S,Encina Pl,The Plaza,
+305,34,The Plaza,13,89.0,4th Tue,AM,N,Parkside,The Plaza,
+306,63,The Plaza,0,41.0,3rd Fri,AM,N,Encina Pl,Nogales,
+307,63,The Plaza,41,131.0,3rd Fri,AM,E,Nogales,The Plaza,
+308,63,The Plaza,128,155.0,3rd Fri,AM,S,The Plaza,Parkside,
+309,34,The Uplands,26,225.0,4th Tue,AM,E,Claremont,Tunnel,
+310,63,The Uplands,26,224.0,3rd Fri,AM,W,Claremont,Tunnel,
+311,63,Thousand Oaks,1532,2098.0,3rd Fri,PM,S,City Limit,San Fernando,1500-
+312,63,Thousand Oaks,2000,2098.0,3rd Fri,PM,S,San Fernando,Arlington,
+313,24,Thousand Oaks,1531,2199.0,4th Mon,PM,N,City Limit,Arlington,1800
+314,41,Tremont,3000,3199.0,1st Wed,AM,W,Emerson,City Limit,
+315,51,Tremont,3001,3199.0,1st Thurs,AM,E,Emerson,City Limit,
+316,21,Tyler,1500,1698.0,1st Mon,AM,S,Sacramento,King,1600
+317,31,Tyler,1501,1699.0,1st Tue,AM,N,Sacramento,King,
+318,24,Vallejo,1800,1898.0,4th Mon,PM,S,The Alameda,San Ramon,
+319,63,Vallejo,1901,1999.0,3rd Fri,PM,N,The Alameda,San Ramon,
+320,22,Valley,2300,2398.0,2nd Mon,AM,W,Dead End,Channing,1300
+321,22,Valley,2400,2498.0,2nd Mon,AM,W,Channing,Dwight,
+322,61,Valley,2401,2499.0,1st Fri,AM,E,Channing,Dwight,
+323,34,Vicente,1,95.0,4th Tue,AM,E,Tunnel,City Limit,
+324,63,Vicente,2,94.0,3rd Fri,AM,W,Tunnel,City Limit,
+325,34,Vicente,150,181.0,4th Tue,AM,E,City Limit,Alvarado,
+326,24,Vincente,801,899.0,4th Mon,PM,N,Ensenada,Peralta,600
+327,62,Vine,1600,1998.0,2nd Fri,PM,S,McGee,Milvia,1700
+328,52,Vine,1601,1999.0,2nd Thurs,PM,N,McGee,Milvia,1700
+329,63,Vine,2300,2390.0,3rd Fri,PM,S,Arch,Hawthorne,
+330,24,Vine,2301,2449.0,4th Mon,PM,N,Arch,Hawthorne,
+331,21,Virginia,830,1098.0,1st Mon,PM,S,6th,San Pablo,
+332,31,Virginia,831,1099.0,1st Tue,PM,N,6th,San Pablo,
+333,41,Virginia,1100,1498.0,1st Wed,PM,S,San Pablo,Sacramento,
+334,51,Virginia,1101,1499.0,1st Thurs,PM,N,San Pablo,Sacramento,
+335,32,Virginia,1500,1698.0,2nd Tue,PM,S,Sacramento,Milvia,1600+
+336,42,Virginia,1501,1999.0,2nd Wed,PM,N,Sacramento,Milvia,
+337,33,Virginia,2000,2098.0,3rd Tue,PM,S,Milvia,Shattuck,
+338,23,Virginia,2001,2099.0,3rd Mon,PM,N,Milvia,Shattuck,
+339,41,Virginia Gardens,1600,1698.0,1st Wed,PM,W,Virginia,Terminus,
+340,41,Virginia Gardens,1601,1699.0,1st Wed,PM,E,Virginia,Terminus,
+341,43,Walker,2700,2722.0,3rd Wed,AM,W,Derby,Ward,
+342,43,Walker,2701,2723.0,3rd Wed,AM,E,Derby,Ward,
+343,62,Wallace,2724,2898.0,2nd Fri,AM,W,Ward,Russell,
+344,52,Wallace,2725,2899.0,2nd Thurs,AM,E,Ward,Russell,
+345,33,Walnut,1800,1898.0,3rd Tue,PM,W,Delaware,Hearst,
+346,23,Walnut,1800,1899.0,3rd Mon,PM,E,Delaware,Hearst,
+347,42,Ward,1100,1498.0,2nd Wed,AM,S,San Pablo,Sacramento,2700
+348,32,Ward,1101,1499.0,2nd Tue,AM,N,San Pablo,Sacramento,
+349,31,Ward,1500,1998.0,1st Tue,AM,S,Sacramento,Milvia,
+350,21,Ward,1501,1999.0,1st Mon,AM,N,Sacramento,Milvia,
+351,23,Ward,2001,2425.0,3rd Mon,AM,N,Milvia,Telegraph,
+352,34,Warring,2300,2498.0,4th Tue,PM,W,Bancroft,Dwight,
+353,44,Warring,2351,2499.0,4th Wed,PM,E,Durant,Dwight,
+354,64,Warring,2500,2698.0,4th Fri,AM,W,Dwight,Derby,
+355,54,Warring,2501,2699.0,4th Thurs,AM,E,Dwight,Derby,
+356,22,Watkins,1300,1398.0,2nd Mon,PM,N,Neilson,Tevlin,
+357,61,Watkins,1300,1398.0,1st Fri,PM,S,Neilson,Tevlin,
+358,33,Webster,2250,2398.0,3rd Tue,AM,S,Deakin,Telegraph,
+359,23,Webster,2251,2399.0,3rd Mon,AM,N,Deakin,Telegraph,
+360,63,Webster,2600,2998.0,3rd Fri,AM,S,Hillegass,Claremont,
+361,34,Webster,2601,2999.0,4th Tue,AM,N,Hillegass,Claremont,
+362,61,West,2300,2498.0,1st Fri,AM,W,Bancroft,Dwight,
+363,22,West,2301,2499.0,2nd Mon,AM,E,Bancroft,Dwight,
+364,53,Wheeler,2900,3198.0,3rd Thurs,AM,W,Russell,Woolsey,
+365,43,Wheeler,3001,3123.0,3rd Wed,AM,E,Russell,Woolsey,
+366,31,Woolsey,1501,1899.0,1st Tue,AM,N,Sacramento,M L King,
+367,21,Woolsey,1598,1820.0,1st Mon,AM,S,Sacramento,M L King,
+368,33,Woolsey,1901,2599.0,3rd Tue,AM,N,Adeline,Hillegass,
+369,23,Woolsey,2000,2598.0,3rd Mon,AM,S,Adeline,Hillegass,
+370,34,Woolsey,2600,2994.0,4th Tue,AM,S,Hillegass,Claremont,
+371,63,Woolsey,2601,2899.0,3rd Fri,AM,N,Hillegass,Claremont,
+372,52,Yolo,1900,2026.0,2nd Thurs,PM,S,The Alameda,Sutter,
+373,62,Yolo,1901,1999.0,2nd Fri,PM,N,The Alameda,Milvia,1900
+374,62,Yolo,1901,2027.0,2nd Fri,PM,N,The Alameda,Sutter,2000
+375,63,Yosemite,2000,2098.0,3rd Fri,PM,S,San Fernando,Contra Costa,
