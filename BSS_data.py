@@ -4,7 +4,10 @@ import pandas as pd
 import numpy as np
 
 fl = "/Users/jp/Documents/Make/Projects/bsp/Berkeley Street Sweeping Data.csv"
+
 dS = pd.read_csv(fl)
+Sweep.objects.all().delete()
+Sweep.objects.all().count()
 
 
 
@@ -26,6 +29,8 @@ for index,row in dS.iterrows():
 		optout = row["Optout"] if not pd.isnull(row["Optout"]) else 0
 	)
 	sweep.save()
+
+
 
 row =dS.loc[3]
 sweep = Sweep.objects.create(
